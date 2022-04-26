@@ -1,4 +1,4 @@
-Hi 👋 My name is Patricia Fuentes Miyar
+Hi 👋 My name is Patricia
 =======================================
 
 Full Stack Developer
