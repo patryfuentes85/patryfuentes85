@@ -41,6 +41,8 @@ Full Stack Developer
 
 <a href="https://github.com/patryfuentes85" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patryfuentes85&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/patryfuentes85/MovieApp_P_R_S" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=patryfuentes85&repo=MovieApp_P_R_S&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/patryfuentes85/NasaApi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=patryfuentes85&repo=NasaApi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
