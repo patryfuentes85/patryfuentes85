@@ -1,7 +1,6 @@
 Hi 👋 My name is Patricia
 =======================================
-
-Full Stack Developer
+Data Analyst & Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Madrid
